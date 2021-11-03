@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tablayoutejemplo</string>
+    <string name="item1">Login</string>
+    <string name="item2">Registrar</string>
+    <string name="item3">Información</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
